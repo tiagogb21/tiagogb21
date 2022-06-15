@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **front-end and back-end**
 
-- 👯 I’m looking to collaborate on **free open sources**
+- 👯 I’m looking to collaborate with **free open sources**
 
 - 🤝 I’m looking for help: **need to get a job**
 
