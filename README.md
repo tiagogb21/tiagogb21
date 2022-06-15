@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **free open sources**
 
-- 🤝 I’m looking for help with **to get a job**
+- 🤝 I’m looking for help: **need to get a job**
 
 - 💬 Ask me about **javascript, react, vue, nodejs, mysql, docker, typescript**
 
