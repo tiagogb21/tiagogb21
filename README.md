@@ -15,7 +15,11 @@
 
 - 📄 Know about my experiences [https://tiagogb21.github.io/](https://tiagogb21.github.io/)
 
-- ⚡ Fun fact **I think I can learn every developer language**
+- ⚡ Fun fact **I think I can learn every developer language.**
+
+- 💼 Learning is constant.
+
+- 🕶 A big fan of clean code and agile methodologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
