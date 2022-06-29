@@ -1,7 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogb21)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Tiago Garbi</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate web developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagogb21&label=Profile%20views&color=0e75b6&style=flat" alt="tiagogb21" /> </p>
 
