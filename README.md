@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogb21)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Tiago Garbi</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
@@ -97,7 +95,7 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> google cloud</a>
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogb21)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Agile Methodologies:</h3>
 
 <p>
