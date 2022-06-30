@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Tiago Garbi</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h1 align="center">Olá 👋, eu me chamo Tiago</h1>
+<h3 align="center">Sou um desenvolvedor full stack apaixonado pelo que faço!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagogb21&label=Profile%20views&color=0e75b6&style=flat" alt="tiagogb21" /> </p>
 
-- 🔭 I’m currently working on **front-end and back-end**
+- 🔭 Atualmente estou trabalhando em projetos que envolvem **front e back** com **typescript**
 
-- 👯 I’m looking to collaborate with **free open sources**
+- 👯 Procuro colaborar com projetos **free open sources**
 
-- 🤝 I’m looking for help: **need to get a job**
+- 🤝 Estou procurando por ajuda: **gostaria de encontrar um emprego**
 
-- 💬 Ask me about **javascript, react, vue, nodejs, mysql, docker, typescript**
+- 💬 Pode me perguntar sobre: **javascript, react, vue, nodejs, mysql, docker, typescript**
 
-- 📫 How to reach me **tgbmateriais@gmail.com**
+- 📫 Você pode entrar em contato comigo aqui: **tgbmateriais@gmail.com**
 
-- 📄 Know about my experiences [https://tiagogb21.github.io/](https://tiagogb21.github.io/)
+- 📄 Você pode ver um pouco da minha experiência aqui: [https://tiagogb21.github.io/](https://tiagogb21.github.io/)
 
-- ⚡ Fun fact **I think I can learn every developer language.**
+- ⚡ Curiosidade: **Eu tenho muita experiência com estudo, já fui professor particular e já fui aprovado em 3 concursos públicos. Não há nada que eu não possa aprender =D.**
 
-- 💼 Learning is constant.
+- 💼 Todo aprendizado deve ser construído diariamente. A educação muda o mundo!
 
-- 🕶 A big fan of clean code and agile methodologies
+- 🕶 Eu sou um grande fã de metodologias ágeis e de clean code.
 
 <br/>
 <p>
