@@ -21,6 +21,8 @@
 
 - 🕶 Eu sou um grande fã de metodologias ágeis e de clean code.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogb21)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 <p>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> java </a>
@@ -68,8 +70,6 @@
 </p>
 
 <br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogb21)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Connect with me:</h3>
 
