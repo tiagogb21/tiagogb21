@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img width="20px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="hand-shake">, me chamo Tiago</h1>
+<h1 align="center">Olá <img width="50px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="hand-shake">, me chamo Tiago</h1>
 <h3 align="center">Sou um desenvolvedor full stack apaixonado pelo que faço!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagogb21&label=Profile%20views&color=0e75b6&style=flat" alt="tiagogb21" /> </p>
