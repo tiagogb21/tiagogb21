@@ -9,7 +9,7 @@
 
 - 🤝 Estou procurando por ajuda: **gostaria de encontrar um emprego**
 
-- 💬 Pode me perguntar sobre: **javascript, python, java, php, react, next, vue, node, mysql, docker, typescript**
+- 💬 Pode me perguntar sobre: **javascript, typescript (<b>front</b>: react, next, angular, vue, <b>back</b>: nodejs, sequelize, mongoose)**
 
 - 📫 Você pode entrar em contato comigo aqui: **tgbmateriais@gmail.com**
 
