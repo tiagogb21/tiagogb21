@@ -7,17 +7,11 @@
 
 - 👯 Procuro colaborar com projetos **free open sources**
 
-- 🤝 Estou procurando por ajuda: **gostaria de encontrar um emprego**
-
 - 💬 Pode me perguntar sobre: **javascript, typescript (FRONT: react, next, angular, vue, BACK: nodejs, sequelize, mongoose)**
 
 - 📫 Você pode entrar em contato comigo aqui: **tgbmateriais@gmail.com**
 
 - 📄 Você pode ver um pouco da minha experiência aqui: [https://tiagogb21.github.io/](https://tiagogb21.github.io/)
-
-- ⚡ Curiosidade: **Eu tenho muita experiência com estudo, já fui professor particular e já fui aprovado em 3 concursos públicos. Não há nada que eu não possa aprender =D.**
-
-- 💼 Todo aprendizado deve ser construído diariamente. A educação muda o mundo!
 
 - 🕶 Eu sou um grande fã de metodologias ágeis e de clean code.
 
