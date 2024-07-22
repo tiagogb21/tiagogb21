@@ -9,7 +9,7 @@
 
 - 💬 Pode me perguntar sobre: **javascript, typescript FRONT (react, next, angular, vue) ou BACK (nodejs, sequelize, mongoose)**
 
-- 📫 Você pode entrar em contato comigo aqui: **tgbmateriais@gmail.com**
+- 📫 Você pode entrar em contato comigo aqui: **tiagogarbideveloper@gmail.com**
 
 - 📄 Você pode ver um pouco da minha experiência aqui: [https://tiagogb21.github.io/](https://tiagogb21.github.io/)
 
