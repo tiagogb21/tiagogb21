@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagogb21&label=Profile%20views&color=0e75b6&style=flat" alt="tiagogb21" /> </p>
 
-- 🔭 Atualmente estou trabalhando em projetos que envolvem **front e back** com **typescript**
+- 🔭 Atualmente estou trabalhando em projetos que envolvem **Front - React, Next.js** e **back - Node.js** com **typescript**
 
 - 👯 Procuro colaborar com projetos **free open sources**
 
