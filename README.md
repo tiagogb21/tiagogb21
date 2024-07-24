@@ -7,7 +7,7 @@
 
 - 👯 Procuro colaborar com projetos **free open sources**
 
-- 💬 Pode me perguntar sobre: **javascript, typescript FRONT (react, next, angular, vue) ou BACK (nodejs, sequelize, mongoose)**
+- 💬 Pode me perguntar sobre: **javascript, typescript FRONT (react, next, angular, vue) ou BACK (nodejs, mysql, postgresql, mongodb)**
 
 - 📫 Você pode entrar em contato comigo aqui: **tiagogarbideveloper@gmail.com**
 
