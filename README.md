@@ -11,7 +11,7 @@
 
 - 📫 Você pode entrar em contato comigo aqui: **tiagogarbideveloper@gmail.com**
 
-- 📄 Você pode ver um pouco da minha experiência aqui: [https://tiagogb21.github.io/](https://tiagogb21.github.io/)
+- 📄 Você pode ver um pouco da minha experiência aqui: [personal portfolio](https://personal-portfolio-tiago-garbi.vercel.app/)
 
 - 🕶 Eu sou um grande fã de metodologias ágeis e de clean code.
 
