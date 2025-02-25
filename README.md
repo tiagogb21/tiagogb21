@@ -1,19 +1,19 @@
-<h1 align="center">Olá <img width="50px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="hand-shake">, me chamo Tiago</h1>
-<h3 align="center">Sou um desenvolvedor full stack apaixonado pelo que faço!</h3>
+<h1 align="center">Hello <img width="50px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="hand-shake">, I'm Tiago</h1>
+<h3 align="center">I'm a full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagogb21&label=Profile%20views&color=0e75b6&style=flat" alt="tiagogb21" /> </p>
 
-- 🔭 Atualmente estou trabalhando em projetos que envolvem **Front - React, Next.js** e **back - Node.js** com **typescript**
+- 🔭 I'm currently working on projects involving **Front - React, Next.js** and **back - Node.js** with **typescript**
 
-- 👯 Procuro colaborar com projetos **free open sources**
+- 👯 I'm looking to collaborate with **free open source** projects
 
-- 💬 Pode me perguntar sobre: **javascript, typescript FRONT (react, next, angular, vue) ou BACK (nodejs, mysql, postgresql, mongodb)**
+- 💬 Can I ask about: **javascript, typescript FRONT (react, next, angular, vue) or BACK (nodejs, mysql, postgresql, mongodb)**
 
-- 📫 Você pode entrar em contato comigo aqui: **tiagogarbideveloper@gmail.com**
+- 📫 You can contact me here: **tiagogarbideveloper@gmail.com**
 
-- 📄 Você pode ver um pouco da minha experiência aqui: [personal portfolio](https://personal-portfolio-tiago-garbi.vercel.app/)
+- 📄 You can see a little of my experience here: [personal portfolio](https://personal-portfolio-tiago-garbi.vercel.app/)
 
-- 🕶 Eu sou um grande fã de metodologias ágeis e de clean code.
+- 🕶 I'm a big fan of agile methodologies and clean code.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogb21)](https://github.com/anuraghazra/github-readme-stats)
 
