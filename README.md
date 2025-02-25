@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagogb21&label=Profile%20views&color=0e75b6&style=flat" alt="tiagogb21" /> </p>
 
-- 🔭 I'm currently working on projects involving **Front - React, Next.js** and **back - Java - Spring Boot | Node.js**
+- 🔭 I'm currently working on projects involving **Front - React, Next.js** and **back - Java (Spring Boot) | Node.js**
 
 - 👯 I'm looking to collaborate with **free open source** projects
 
-- 💬 Can I ask about: **javascript, typescript FRONT (react, next, angular, vue) or BACK (nodejs, mysql, postgresql, mongodb)**
+- 💬 You can ask me about: **javascript, typescript FRONT (react, next, angular, vue) or BACK (java, spring boot, nodejs, sql, nosql)**
 
 - 📫 You can contact me here: **tiagogarbideveloper@gmail.com**
 
