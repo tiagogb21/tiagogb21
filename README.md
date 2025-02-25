@@ -3,17 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagogb21&label=Profile%20views&color=0e75b6&style=flat" alt="tiagogb21" /> </p>
 
-- 🔭 I'm currently working on projects involving **Front - React, Next.js** and **back - Java (Spring Boot) | Node.js**
+🚀 Passionate About Scalable & High-Performance Applications
 
-- 👯 I'm looking to collaborate with **free open source** projects
+🔭 Currently working on projects with React, Next.js, Java (Spring Boot), and Node.js
 
-- 💬 You can ask me about: **javascript, typescript FRONT (react, next, angular, vue) or BACK (java, spring boot, nodejs, sql, nosql)**
+👯 Open to collaborating on open-source projects and exciting new challenges
 
-- 📫 You can contact me here: **tiagogarbideveloper@gmail.com**
+💬 Ask me about JavaScript, TypeScript, React, Next.js, Vue, Java, Spring Boot, Node.js, SQL, NoSQL
 
-- 📄 You can see a little of my experience here: [personal portfolio](https://personal-portfolio-tiago-garbi.vercel.app/)
+📫 Reach me at tiagogarbideveloper@gmail.com
 
-- 🕶 I'm a big fan of agile methodologies and clean code.
+📄 Explore my work and experience in my personal portfolio
+
+🕶 Advocate for agile methodologies, clean code, and best development practices
+
+Let's build something amazing together!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogb21)](https://github.com/anuraghazra/github-readme-stats)
 
